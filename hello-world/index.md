@@ -4,7 +4,7 @@
 
 This is a spatial analysis work I've done from last semester. The image shows the counties in the United States; the counties colored in represents that it has more carbon emission than the rest (75%) of the other counties. 
 
-![](high_emission.png?raw=true)
+![](assets/images/high_emission.png?raw=true)
 
 ## Math Equation
 
